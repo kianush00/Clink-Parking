@@ -93,11 +93,11 @@ Main screens:
 - Forgot password
 - Home (Bare Minimum) with a logout button
 
-![Login screen with validation](https://i.imgur.com/cydaOYN.png)
+![Inicio de sesión](https://drive.google.com/file/d/137fslGee_ezu9qGS2SgRrUZpNIcFvDaQ/view?usp=sharing)
 
-![Successful Signup](https://i.imgur.com/62kcirI.png)
+![Crear cuenta](https://drive.google.com/file/d/10CdasHVYuvrGwTaV9vyBaDVN-UO_y4Pc/view?usp=sharing)
 
-![Forgot Password](https://i.imgur.com/9J9a4Nl.png)
+![Menú principal](https://drive.google.com/file/d/1Q8ukGMk7dsB_842c6CHCpgOxrOI6ARC8/view?usp=sharing)
 
 ![Validation on Signup screens](https://i.imgur.com/DG0wTjG.png)
 
@@ -114,3 +114,4 @@ Expo uses Firebase Web SDK and does not support all Firebase services such as ph
 ## Authors
 - [@kianush00](https://github.com/kianush00)
 - [@ArturoAvendano](https://github.com/ArturoAvendano)
+- [@Hessian-byte](https://github.com/Hessian-byte)
