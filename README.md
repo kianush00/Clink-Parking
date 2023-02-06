@@ -1,4 +1,4 @@
-# expo-firebase-starter 🔥
+# Clink Parking
 
 ![Supports Expo iOS](https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff)
 ![Supports Expo Android](https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff)
@@ -84,6 +84,9 @@ Expo Firebase Starter
 └── babel.config.js ➡️ Babel config (should be using `babel-preset-expo`)
 ```
 
+## Tutorial
+[![Clink Parking](https://www.sbb.ch/content/dam/internet/sharedimages/objekte/Velo_Parking.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg)](https://youtu.be/kXgMLJCRY9g)
+
 ## Screens
 ### Inicio de sesión
 ![Inicio de sesión](/resources/inicio_sesion.png)
@@ -116,8 +119,6 @@ Expo uses Firebase Web SDK and does not support all Firebase services such as ph
 [**Here is more on what and why Expo cannot support complete Firebase integration**](https://expo.canny.io/feature-requests/p/full-native-firebase-integration)
 
 ---
-
-<strong>Built with 💜 by [@amanhimself](https://twitter.com/amanhimself)</strong>
 
 ## Authors
 - [@kianush00](https://github.com/kianush00)
