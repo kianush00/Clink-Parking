@@ -85,7 +85,7 @@ Expo Firebase Starter
 ```
 
 ## Tutorial
-[![Clink Parking](https://www.sbb.ch/content/dam/internet/sharedimages/objekte/Velo_Parking.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg)](https://youtu.be/kXgMLJCRY9g)
+[![Clink Parking](/resources/tutorial.png)](https://youtu.be/kXgMLJCRY9g)
 
 ## Screens
 ### Inicio de sesión
