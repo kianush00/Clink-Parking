@@ -93,13 +93,15 @@ Main screens:
 - Forgot password
 - Home (Bare Minimum) with a logout button
 
-![Inicio de sesión](https://drive.google.com/file/d/137fslGee_ezu9qGS2SgRrUZpNIcFvDaQ/view?usp=sharing)
+![Inicio de sesión](/resources/inicio_sesion.png)
 
-![Crear cuenta](https://drive.google.com/file/d/10CdasHVYuvrGwTaV9vyBaDVN-UO_y4Pc/view?usp=sharing)
+![Crear cuenta](/resources/crear_cuenta.png)
 
-![Menú principal](https://drive.google.com/file/d/1Q8ukGMk7dsB_842c6CHCpgOxrOI6ARC8/view?usp=sharing)
+![Menú principal](/resources/clinker_pantalla.png)
 
-![Validation on Signup screens](https://i.imgur.com/DG0wTjG.png)
+![Solicitar estacionamiento](/resources/solicitar_estacionamiento.png)
+
+![Retirar bicicleta](/resources/retirar_bicicleta.png)
 
 ## ⚠️ Please Note
 
