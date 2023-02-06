@@ -85,23 +85,29 @@ Expo Firebase Starter
 ```
 
 ## Screens
-
-Main screens:
-
-- Login
-- Signup
-- Forgot password
-- Home (Bare Minimum) with a logout button
-
+### Inicio de sesión
 ![Inicio de sesión](/resources/inicio_sesion.png)
 
+### Crear cuenta 
 ![Crear cuenta](/resources/crear_cuenta.png)
 
+### Menú principal
 ![Menú principal](/resources/clinker_pantalla.png)
 
+### Solicitar estacionamiento
 ![Solicitar estacionamiento](/resources/solicitar_estacionamiento.png)
 
+### Retirar bicicleta
 ![Retirar bicicleta](/resources/retirar_bicicleta.png)
+
+### Rentar bicicleta
+![Rentar bicicleta](/resources/rentar_bicicleta.png)
+
+### Devolver bicicleta
+![Devolver bicicleta](/resources/devolver_bicicleta.png)
+
+### Crear estacionamiento
+![Crear estacionamiento](/resources/crear_estacionamiento.png)
 
 ## ⚠️ Please Note
 
