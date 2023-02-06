@@ -89,7 +89,7 @@ Expo Firebase Starter
 ![Inicio de sesión](/resources/inicio_sesion.png)
 
 ### Crear cuenta 
-![Crear cuenta](/resources/crear_cuenta.png)
+![Crear cuenta](/resources/crear_cuenta.png =398x857)
 
 ### Menú principal
 ![Menú principal](/resources/clinker_pantalla.png)
