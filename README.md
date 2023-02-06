@@ -92,22 +92,22 @@ Expo Firebase Starter
 <img src="/resources/crear_cuenta.png" width=398 height=857>
 
 ### Menú principal
-![Menú principal](/resources/clinker_pantalla.png)
+<img src="/resources/clinker_pantalla.png" width=398 height=857>
 
 ### Solicitar estacionamiento
-![Solicitar estacionamiento](/resources/solicitar_estacionamiento.png)
+<img src="/resources/solicitar_estacionamiento.png" width=398 height=857>
 
 ### Retirar bicicleta
-![Retirar bicicleta](/resources/retirar_bicicleta.png)
+<img src="/resources/retirar_bicicleta.png" width=398 height=857>
 
 ### Rentar bicicleta
-![Rentar bicicleta](/resources/rentar_bicicleta.png)
+<img src="/resources/rentar_bicicleta.png" width=398 height=857>
 
 ### Devolver bicicleta
-![Devolver bicicleta](/resources/devolver_bicicleta.png)
+<img src="/resources/devolver_bicicleta.png" width=398 height=857>
 
 ### Crear estacionamiento
-![Crear estacionamiento](/resources/crear_estacionamiento.png)
+<img src="/resources/crear_estacionamiento.png" width=398 height=857>
 
 ## ⚠️ Please Note
 
